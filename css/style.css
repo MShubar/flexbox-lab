@@ -205,7 +205,7 @@ nav button:hover {
 
 .form p {
   margin-top: 20px;
-  color: #666;
+  color: #333;
 }
 
 .form a {
@@ -264,25 +264,6 @@ nav button:hover {
   cursor: pointer;
   font-size: 16px;
   font-weight: 500;
-}
-
-.form button:hover {
-  background-color: red;
-  transition: 0.3s;
-}
-
-.form p {
-  margin-top: 20px;
-  color: white;
-}
-
-.form a {
-  color: #ea4c89;
-  text-decoration: none;
-}
-
-.form a:hover {
-  text-decoration: underline;
 }
 
 @media (max-width: 700px) {
